@@ -1,0 +1,16 @@
+Installation Guide and Main working Model in Project:
+
+Download the ecom_sample.zip
+place it on server's directory(i.e., for XAMPP(htdocs))
+after creating ecom database import the ecom.sql database
+remove your internet connection it might takes some time to load google font if fast Internet access available it will be fine
+login into site with following credentials:
+1)Username: gopi
+2)password:gopii318
+next we can add products to cart and we remove from cart
+on going to cart there will be Image button to order
+next we need to give delivering address (only COD did, Not online transaction)
+then no preview shown the data directly stored into database
+
+
+			Thanks for your patience.

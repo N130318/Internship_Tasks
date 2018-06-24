@@ -1,0 +1,14 @@
+                                                     PHP Chat Script
+This is a simple script for Chat, made with PHP and Javascript,CSS,HTML Technology.
+Requirements
+- PHP 5+
+- Browser with JavaScript enabled (preferable with support for CSS3).
+- XAMPP Server Installation.
+This is an multiuser(Group) Chat System.
+ User Has to enter his name display on chat box and he sends the meessages stored in database with ip automatically after 5 seconds page updates.
+This is tested successfully on Mozilla Firefox, Google Chrome(Latest Versions)
+Installation
+After you have extrat the zip file place it in localhost(XAMPP/WAMP)/htdocs location
+Then Create a Database with name(website) in phpMyadmin and import the .sql file in it. 
+Now you you will be able to use the system.
+Thank You.

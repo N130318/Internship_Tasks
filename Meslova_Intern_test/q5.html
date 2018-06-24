@@ -1,0 +1,23 @@
+<html>
+	<body>
+		<form>
+			<input type="text" name="ip" id="iptxt"/><br>
+			<input type="submit" value="submit" onclick='valuser()'/>
+		</form>
+		<script>
+			function valuser()
+			{ 
+				var a=document.getElementById("iptxt");
+				var seq = /^[0-9A-Z]+$/;
+				if((a.value.length==4)&&(a.value.match(seq)))
+				{	
+						alert('Success');
+				}
+				else
+				{
+					alert('Flop');
+				}
+			}
+		</script>
+	</body>
+</html>

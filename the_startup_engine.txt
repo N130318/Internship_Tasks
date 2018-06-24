@@ -1,0 +1,22 @@
+For this coding test, you will need to build a simple CRUD application. The case here is to build an application with a graphical interface to manage and maintain a list of Employees for a hypothetical company.
+
+Users of your application should be able to:
+
+1. View a list of existing Employees and all of their details including: "Full Name", "Date of Joining", "Age" and "Email Address"
+2. Add new Employees via a Form or equivalent
+3. Delete individual Employees
+4. Edit/Change any and all details of each Employee in the list
+
+Bonus points for creativity, user experience, code quality, unit tests, demonstrating use of Ajax or Browser storage for data persistence, showcasing scalability, and additional features and functionality like "Search", "Sort", "Pagination", etc
+
+You may use any technology stack of your choice, and if possible we would prefer a responsive web based interface build upon ReactJS or VueJS
+
+Once built you must host the code on any public Git repository site of your choosing, like https://GitHub.com
+
+If successful, the application code and interface will be reviewed in the phone interview session following this.
+
+Kindly write back with your questions if any.
+
+I look forward to your application
+
+solution link: https://github.com/N130318/first_mean
